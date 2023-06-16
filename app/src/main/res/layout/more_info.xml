@@ -1,0 +1,82 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0D1783AD"
+    >
+
+
+    <View
+        android:id="@+id/ellipse_20"
+        android:layout_width="wrap_content"
+        android:layout_height="315dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="-122dp"
+        android:layout_marginTop="-101dp"
+        android:layout_marginEnd="-48dp"
+        android:background="@drawable/ellipse_20_shape" />
+
+    <TextView
+        android:id="@+id/home"
+
+        android:layout_width="315dp"
+        android:layout_height="117dp"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginLeft="37dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="Your Drive"
+        android:textColor="@color/rectangle_42_color"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rectangle"
+
+        android:drawablePadding="8dp"
+        android:gravity="center"
+
+        android:paddingStart="16dp"
+        android:paddingEnd="40dp" />
+    <EditText
+
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rectangle"
+
+        android:drawablePadding="8dp"
+        android:gravity="center"
+
+        android:paddingStart="16dp"
+        android:paddingEnd="40dp" />
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        app:itemIconTint="@color/colorPrimary"
+        app:itemTextColor="@color/colorPrimary"
+        app:labelVisibilityMode="labeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_nav_menu"
+        android:layout_alignParentBottom="true"
+        >
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+</RelativeLayout>
