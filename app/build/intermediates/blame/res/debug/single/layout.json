@@ -16,8 +16,16 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\frame_2157.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\frame_2157.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_bar.xml",
