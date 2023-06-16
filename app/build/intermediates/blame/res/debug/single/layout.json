@@ -4,6 +4,14 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\activity_maps.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cats.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\cats.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\more_info.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\more_info.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_login.xml",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\android_cruizen-master\\app\\src\\main\\res\\layout\\content_login.xml"
     },

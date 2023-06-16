@@ -1786,6 +1786,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable background_background
 drawable background_theme
+drawable baseline_arrow_back_ios_24
 drawable baseline_camera_alt_24
 drawable baseline_edit_location_24
 drawable baseline_email_24
@@ -1838,6 +1839,15 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img
+drawable img_1
+drawable img_2
+drawable img_3
+drawable img_4
+drawable img_5
+drawable img_6
+drawable img_7
+drawable img_8
 drawable logo5
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
@@ -1873,6 +1883,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable profile
+drawable rectangle
 drawable rectangle_42_shape
 drawable test_custom_background
 drawable tile_icon
@@ -1957,6 +1968,7 @@ id activity_chooser_view_content
 id add
 id adjust_height
 id adjust_width
+id airplane
 id alertTitle
 id aligned
 id all
@@ -1975,11 +1987,14 @@ id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
+id bicycle
 id blocking
 id bottom
 id bottomNavigationView
 id bottom_bar
 id bounce
+id bus
+id bus1
 id buttonPanel
 id button_first
 id button_second
@@ -2018,6 +2033,7 @@ id counterclockwise
 id custom
 id customPanel
 id cut
+id cycle
 id dark
 id date_picker_actions
 id decelerate
@@ -2093,6 +2109,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
+id imageView3
 id info
 id invisible
 id inward
@@ -2108,6 +2126,10 @@ id light
 id line1
 id line3
 id linear
+id linearLayout
+id linearLayout2
+id linearLayout4
+id linearLayout5
 id listMode
 id list_item
 id liveButton
@@ -2287,6 +2309,7 @@ id startVertical
 id staticLayout
 id staticPostLayout
 id stop
+id stopsign
 id stretch
 id submenuarrow
 id submit_area
@@ -2316,6 +2339,16 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView10
+id textView11
+id textView2
+id textView3
+id textView4
+id textView6
+id textView7
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2332,9 +2365,11 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbar
 id top
 id topPanel
 id touch_outside
+id train
 id transitionToEnd
 id transitionToStart
 id transition_current_scene
@@ -2436,6 +2471,7 @@ layout activity_object_detection
 layout activity_profile
 layout activity_register
 layout bottom_bar
+layout cats
 layout content_login
 layout content_register
 layout custom_dialog
@@ -2473,6 +2509,7 @@ layout material_time_input
 layout material_timepicker
 layout material_timepicker_dialog
 layout material_timepicker_textinput_display
+layout more_info
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -2528,6 +2565,7 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 layout texture_view
+menu arrow
 menu bottom_nav_menu
 mipmap background
 mipmap background_foreground

@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity implements Runnable {
 
 
 
-        final Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+        final Intent intent = new Intent(MainActivity.this, infoActivity.class);
         startActivity(intent);
 
 
